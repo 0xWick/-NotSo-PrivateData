@@ -3,7 +3,7 @@
 
 ## Nothin is Private on a Public Ledger(Blockchain) duh :triangular_flag_on_post:	
 
-![](https://thefwa.com/cases/dedsec-r3sistance)
+![](https://thefwa.com/dyn/resources/Case_Model_Case/slide2/1/7981/1476816000/538_span12/58065e94d67b5dedsec-canada-hub-03.png)
 
 ## What does private mean?
 
